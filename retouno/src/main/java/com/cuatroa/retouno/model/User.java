@@ -15,7 +15,7 @@ import lombok.RequiredArgsConstructor;
 
 /**
  *
- * @author desarrolloextremo
+ * @author MiltonV
  */
 @Entity
 @Data
